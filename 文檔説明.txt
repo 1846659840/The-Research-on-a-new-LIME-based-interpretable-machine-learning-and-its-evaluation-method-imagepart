@@ -1,0 +1,5 @@
+baidu_stopweords 是百度停用詞表
+gpt2 GBT2-FINETUNE（1）是finetune的訓練過程
+Hotel2000 和 New Hotel2000是訓練數據集，其中NewHotel為修正
+output為自定義的去除停用詞表
+情緒詞訓練是非套件的寫法，另外加上詞袋模型的訓練匯總
